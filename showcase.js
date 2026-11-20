@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-view]').forEach(button=>button.addEventListener('click',()=>{const frame=document.getElementById('pulse-portal');window.loadPortfolioPortal(frame,button.dataset.view);document.querySelector('.portal-stage').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth',block:'start'});}));

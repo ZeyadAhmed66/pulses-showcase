@@ -1,12 +1,8 @@
-# Pulses project showcase
+# Pulse demo
 
-This folder is a standalone, view-only demonstration of the Pulses interface.
-It uses fictional names, orders, dates, and scores. It has no backend, login,
-forms, exports, external requests, or connection to the live Pulse system.
+- [Open the interactive Pulse portal](https://zeyadahmed66.github.io/pulses-showcase/)
+- [Explore the Pulse workflow](https://zeyadahmed66.github.io/pulses-showcase/showcase.html)
 
-To preview locally, open `index.html` in a browser. The folder can be published
-as a static site after the intended audience and GitHub destination are set.
+This portfolio demo uses fictional projects, clients, scores, and audit reports. Browse the project library and dashboards, try the simulated Ask Pulse and score debates, or export a sample report. The demo runs on GitHub Pages using static files.
 
-The private application and its Git history are deliberately outside this
-showcase. In particular, do not copy files from `sites/pulse-preview/dist/`
-into a public repository: that directory contains real evaluation snapshots.
+Designed and built by Ziad Ahmed. Original work is all rights reserved. The bundled jsPDF library is distributed under its included license.
